@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+Host: reyting-kazino-s-momentalnymi-vyv-e796c.github.io
+Sitemap: https://reyting-kazino-s-momentalnymi-vyv-e796c.github.io/sitemap.xml
